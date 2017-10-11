@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RGB-A (MVC)</string>
+    <string name="action_about">About</string>
+    <!-- TODO: replace your name -->
+    <string name="author" translatable="false">Jake Oh(oh000024)</string>
+    <string name="alpha">Transparency (Alpha)</string>
+    <string name="black">Black</string>
+    <string name="blue">Blue</string>
+    <string name="cyan">Cyan</string>
+    <string name="green">Green</string>
+    <string name="magenta">Magenta</string>
+    <string name="red">Red</string>
+    <string name="white">White</string>
+    <string name="yellow">Yellow</string>
+    <string name="redProgress">Red: %1d</string>
+    <string name="greeProgress">Geen: %1d</string>
+    <string name="blueProgress">Blue: %1d</string>
+    <string name="alphaProgress">Alpha: %1d</string>
+</resources>
